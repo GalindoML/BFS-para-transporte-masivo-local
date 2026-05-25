@@ -34,3 +34,12 @@ conocimiento = {
     ]
 
 }
+# ==========================
+# REGLAS LÓGICAS
+# ==========================
+
+def conectado(estacion1, estacion2):
+
+    return estacion2 in conocimiento[estacion1]
+
+ "Agregar función de reglas lógicas para conexiones"
