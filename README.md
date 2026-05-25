@@ -41,11 +41,6 @@ SistemaInteligenteTransporte/
 ├── documentos/
 
 │ └── informe.pdf
-
-└── video/
-
-└── enlace_video.txt
-
 ---
 
 ## Base de conocimiento
