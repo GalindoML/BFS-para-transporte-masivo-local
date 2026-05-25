@@ -38,14 +38,6 @@ SistemaInteligenteTransporte/
 
 ├── README.md
 
-├── pruebas/
-
-│ ├── prueba1.png
-
-│ ├── prueba2.png
-
-│ └── prueba3.png
-
 ├── documentos/
 
 │ └── informe.pdf
